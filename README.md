@@ -43,5 +43,5 @@ The goal isn't to automate thinking away, but to increase the amount of useful w
 
 ## Connect
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: [Vladyslav Volkov](https://www.linkedin.com/in/vlady-volkov/)
 - GitHub: [Vladyslav-webDev](https://github.com/Vladyslav-webDev)
